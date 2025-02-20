@@ -43,7 +43,7 @@ Ensure you have the following installed:
 ```
 📁 ai-powered-emotion-detection
 │── 📂 EmotionDetection # Emotion detection logic
-│── 📂 static           # Static files (CSS, JS, images)
+│── 📂 static           # Static files (JS)
 │── 📂 templates        # HTML templates for Flask
 │── 📜 server.py          # Main application file
 │── 📜 test_emotion_detector.py # Unit tests
